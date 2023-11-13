@@ -2,13 +2,10 @@
 package ejercicio04;
 /**
  *
- * @author Usuario
+ * @author Pablo velez
  */
 import java.util.Scanner;
 public class Ejercicio04 {
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         double descuento, precio;
