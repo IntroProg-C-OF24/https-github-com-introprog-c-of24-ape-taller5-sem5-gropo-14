@@ -28,6 +28,7 @@ public class Ejercicio07 {
                     else
                         if (calificacion >= 20 && calificacion <= 29)
                             System.out.println("preparate para los examenes de Gracia");
+        
                                 
 
         // TODO code application logic here
