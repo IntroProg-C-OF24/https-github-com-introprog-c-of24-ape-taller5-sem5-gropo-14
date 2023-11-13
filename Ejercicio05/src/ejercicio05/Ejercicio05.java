@@ -2,7 +2,7 @@
 package ejercicio05;
 /**
  *
- * @author Usuario
+ * @author Pablo velez
  */
 import java.util.Scanner;
 public class Ejercicio05 {
