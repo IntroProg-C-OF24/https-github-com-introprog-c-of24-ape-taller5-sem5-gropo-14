@@ -1,9 +1,9 @@
 
 package ejercicio02;
-
 /**
  *
- * @author Usuario
+ * @author Pablo Velez
+ *
  */
 import java.util.Scanner;
 public class Ejercicio02 {
